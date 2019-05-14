@@ -2,7 +2,7 @@
   "name": "vuexdemo",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "liaob <liaob@ngarihealth.com>",
+  "author": "787141162@qq.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
